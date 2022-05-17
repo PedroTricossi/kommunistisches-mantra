@@ -8,5 +8,7 @@ Esse projeto tem por objetivo lembrar as pessoas que as coisas ruins que acontec
  
 ## TO-DO
 Escolher um banco de dados
+
 Fazer o backend em flask
+
 Decidir entre Kotlin e Flutter para fazer o frontend
